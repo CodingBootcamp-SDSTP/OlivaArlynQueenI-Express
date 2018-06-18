@@ -2,15 +2,16 @@
 	<body>
 		<head>
 			<title>E-Express Application</title>
-			<link rel="stylesheet" href="style.css">
-			<script src="functionality.js"></script>
+			<link rel="stylesheet" href="./WEB-INF/style.css">
+			<script src="./WEB-INF/functionality.js"></script>
 		</head>
-		<form class="login">
-			<h1 class="login-title">Login Form</h1>
+		<form class="login" onsubmit= "return validate()" method="post">
+			<h1 class="login-title">Registration Form</h1>
 			<input type="text" id="username" class="login-input" placeholder="Username" autofocus>
 			<input type="password" id= "password" class="login-input" placeholder="Password">
-			<input type="submit" value="Login" class="login-button">
-			<p class="login-lost"><a href="">Forgot Password?</a></p>
+			<input type="email" id= "email" class="login-input" placeholder="Email">
+			<input type="submit" value="Register" class="login-button">
+			<p class="login-lost"><a href="">Already have an account?</a></p>
 		</form>
 	</body>
 </html>
