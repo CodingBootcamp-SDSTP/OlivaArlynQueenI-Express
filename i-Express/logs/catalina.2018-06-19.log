@@ -1,0 +1,110 @@
+19-Jun-2018 10:00:29.034 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.8
+19-Jun-2018 10:00:29.161 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 19:32:00 UTC
+19-Jun-2018 10:00:29.165 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.8.0
+19-Jun-2018 10:00:29.166 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+19-Jun-2018 10:00:29.166 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+19-Jun-2018 10:00:29.166 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+19-Jun-2018 10:00:29.167 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_144\jre
+19-Jun-2018 10:00:29.168 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+19-Jun-2018 10:00:29.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+19-Jun-2018 10:00:29.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\DICT\OlivaArlynQueenI-Express\apache
+19-Jun-2018 10:00:29.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\DICT\OlivaArlynQueenI-Express\apache
+19-Jun-2018 10:00:29.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\DICT\OlivaArlynQueenI-Express\apache\conf\logging.properties
+19-Jun-2018 10:00:29.180 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-Jun-2018 10:00:29.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+19-Jun-2018 10:00:29.184 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+19-Jun-2018 10:00:29.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+19-Jun-2018 10:00:29.186 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\DICT\OlivaArlynQueenI-Express\apache
+19-Jun-2018 10:00:29.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\DICT\OlivaArlynQueenI-Express\apache
+19-Jun-2018 10:00:29.188 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\DICT\OlivaArlynQueenI-Express\apache\temp
+19-Jun-2018 10:00:29.192 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\TXE Components\TCS\;C:\Program Files\Intel\TXE Components\TCS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\TXE Components\DAL\;C:\Program Files (x86)\Intel\TXE Components\DAL\;C:\Program Files\Intel\TXE Components\IPT\;C:\Program Files (x86)\Intel\TXE Components\IPT\;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Java\jdk1.8.0_144\bin;C:\Program Files\nodejs\;C:\WINDOWS\System32\OpenSSH\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Roaming\npm;C:\Users\User\AppData\Local\Programs\Git\cmd;;.]
+19-Jun-2018 10:00:33.759 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+19-Jun-2018 10:00:34.724 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+19-Jun-2018 10:00:34.761 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+19-Jun-2018 10:00:34.777 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+19-Jun-2018 10:00:34.784 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 9060 ms
+19-Jun-2018 10:00:34.976 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+19-Jun-2018 10:00:34.978 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.8
+19-Jun-2018 10:00:35.034 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\docs]
+19-Jun-2018 10:00:39.742 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2018 10:00:40.353 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\docs] has finished in [5,316] ms
+19-Jun-2018 10:00:40.376 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\examples]
+19-Jun-2018 10:00:44.984 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2018 10:00:45.309 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\examples] has finished in [4,933] ms
+19-Jun-2018 10:00:45.355 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\host-manager]
+19-Jun-2018 10:00:47.257 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2018 10:00:47.364 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\host-manager] has finished in [2,009] ms
+19-Jun-2018 10:00:47.448 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\i-Express]
+19-Jun-2018 10:00:50.110 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2018 10:00:50.354 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\i-Express] has finished in [2,906] ms
+19-Jun-2018 10:00:50.425 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\manager]
+19-Jun-2018 10:00:52.448 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2018 10:00:52.489 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\manager] has finished in [2,065] ms
+19-Jun-2018 10:00:52.536 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\ROOT]
+19-Jun-2018 10:00:54.661 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2018 10:00:54.718 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\ROOT] has finished in [2,182] ms
+19-Jun-2018 10:00:54.744 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+19-Jun-2018 10:00:54.822 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+19-Jun-2018 10:00:54.844 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 20052 ms
+19-Jun-2018 10:01:13.931 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+19-Jun-2018 10:01:14.402 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+19-Jun-2018 10:01:14.697 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+19-Jun-2018 10:01:15.043 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+19-Jun-2018 10:01:15.092 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+19-Jun-2018 10:01:15.101 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+19-Jun-2018 10:01:15.105 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+19-Jun-2018 10:35:15.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.8
+19-Jun-2018 10:35:15.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 19:32:00 UTC
+19-Jun-2018 10:35:15.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.8.0
+19-Jun-2018 10:35:15.815 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+19-Jun-2018 10:35:15.818 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+19-Jun-2018 10:35:15.820 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+19-Jun-2018 10:35:15.832 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_144\jre
+19-Jun-2018 10:35:15.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+19-Jun-2018 10:35:15.848 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+19-Jun-2018 10:35:15.849 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\DICT\OlivaArlynQueenI-Express\apache
+19-Jun-2018 10:35:15.849 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\DICT\OlivaArlynQueenI-Express\apache
+19-Jun-2018 10:35:15.850 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\DICT\OlivaArlynQueenI-Express\apache\conf\logging.properties
+19-Jun-2018 10:35:15.852 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-Jun-2018 10:35:15.853 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+19-Jun-2018 10:35:15.853 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+19-Jun-2018 10:35:15.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+19-Jun-2018 10:35:15.858 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\DICT\OlivaArlynQueenI-Express\apache
+19-Jun-2018 10:35:15.859 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\DICT\OlivaArlynQueenI-Express\apache
+19-Jun-2018 10:35:15.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\DICT\OlivaArlynQueenI-Express\apache\temp
+19-Jun-2018 10:35:15.866 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\TXE Components\TCS\;C:\Program Files\Intel\TXE Components\TCS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\TXE Components\DAL\;C:\Program Files (x86)\Intel\TXE Components\DAL\;C:\Program Files\Intel\TXE Components\IPT\;C:\Program Files (x86)\Intel\TXE Components\IPT\;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Java\jdk1.8.0_144\bin;C:\Program Files\nodejs\;C:\WINDOWS\System32\OpenSSH\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Roaming\npm;C:\Users\User\AppData\Local\Programs\Git\cmd;;.]
+19-Jun-2018 10:35:16.387 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+19-Jun-2018 10:35:17.000 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+19-Jun-2018 10:35:17.024 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+19-Jun-2018 10:35:17.035 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+19-Jun-2018 10:35:17.040 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 3846 ms
+19-Jun-2018 10:35:17.129 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+19-Jun-2018 10:35:17.130 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.8
+19-Jun-2018 10:35:17.163 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\docs]
+19-Jun-2018 10:35:20.343 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2018 10:35:20.559 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\docs] has finished in [3,394] ms
+19-Jun-2018 10:35:20.568 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\examples]
+19-Jun-2018 10:35:24.236 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2018 10:35:24.559 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\examples] has finished in [3,990] ms
+19-Jun-2018 10:35:24.566 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\host-manager]
+19-Jun-2018 10:35:25.759 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2018 10:35:25.798 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\host-manager] has finished in [1,233] ms
+19-Jun-2018 10:35:25.803 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\i-Express]
+19-Jun-2018 10:35:26.817 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2018 10:35:26.851 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\i-Express] has finished in [1,047] ms
+19-Jun-2018 10:35:26.860 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\manager]
+19-Jun-2018 10:35:27.782 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2018 10:35:27.909 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\manager] has finished in [1,049] ms
+19-Jun-2018 10:35:27.978 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\ROOT]
+19-Jun-2018 10:35:29.235 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2018 10:35:29.273 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DICT\OlivaArlynQueenI-Express\apache\webapps\ROOT] has finished in [1,292] ms
+19-Jun-2018 10:35:29.293 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+19-Jun-2018 10:35:29.339 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+19-Jun-2018 10:35:29.362 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 12321 ms
+19-Jun-2018 10:35:35.797 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+19-Jun-2018 10:35:36.089 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+19-Jun-2018 10:35:36.420 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+19-Jun-2018 10:35:36.694 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+19-Jun-2018 10:35:36.717 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+19-Jun-2018 10:35:36.760 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+19-Jun-2018 10:35:36.779 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

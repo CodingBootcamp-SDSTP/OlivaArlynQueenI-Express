@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<web-app>
+	<display-name>i-Express Application</display-name>
+	<description>i-Express Application</description>
+	<servlet>
+		<servlet-name>Registration Form</servlet-name>
+		<servlet-class>RegistrationServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Registration Form</servlet-name>
+		<url-pattern>/registration</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>Login Form</servlet-name>
+		<servlet-class>RegistrationServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Login Form</servlet-name>
+		<url-pattern>/login</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>Chat Form</servlet-name>
+		<servlet-class>ChatServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Chat Form</servlet-name>
+		<url-pattern>/chat</url-pattern>
+	</servlet-mapping>
+</web-app>
