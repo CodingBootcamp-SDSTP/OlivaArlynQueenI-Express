@@ -320,3 +320,5 @@
 0:0:0:0:0:0:0:1 - - [21/Jun/2018:16:17:42 +0800] "GET /i-Express/WEB-INF/style.css HTTP/1.1" 404 1046
 0:0:0:0:0:0:0:1 - - [21/Jun/2018:16:17:42 +0800] "GET /i-Express/WEB-INF/functionality.js HTTP/1.1" 404 1046
 0:0:0:0:0:0:0:1 - - [21/Jun/2018:16:19:55 +0800] "GET /i-Express/WEB-INF/style.css HTTP/1.1" 404 1046
+0:0:0:0:0:0:0:1 - - [21/Jun/2018:16:22:14 +0800] "GET /i-Express/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [21/Jun/2018:16:22:14 +0800] "GET /i-Express/WEB-INF/style.css HTTP/1.1" 404 1046
