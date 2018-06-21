@@ -10,7 +10,7 @@ body {
 }
 
 .topnav a {
-	float: left;
+	float: right;
 	display: block;
 	color: #f2f2f2;
 	text-align: center;
@@ -63,7 +63,7 @@ body {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	margin: 20px auto;
-	width: 300px;
+	width: 500px;
 	padding: 30px 25px;
 	background: white;
 	border: 1px solid #c4c4c4;
@@ -79,7 +79,7 @@ h1.login-title {
 	background: #f7f7f7;
 }
 .login-input {
-	width: 285px;
+	width: 485px;
 	height: 50px;
 	margin-bottom: 25px;
 	padding-left:10px;
@@ -119,4 +119,8 @@ input[type=submit]:hover {
 	color:#666;
 	text-decoration:none;
 	font-size:13px;
+}
+
+p.login-lost :hover {
+	color: #ff0000;
 }
